@@ -1,3 +1,5 @@
+# START OF GITHUB AUTOMATIC .GITIGNORE FOR PYTHON
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -206,5 +208,11 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+## END OF GITHUB AUTOMATIC .GITIGNORE FOR PYTHON
+
 # My environment
 jetbrains/
+
+# Datasets
+data/
+models/
